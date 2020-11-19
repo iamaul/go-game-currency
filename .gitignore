@@ -1,8 +1,0 @@
-vendor/
-_*
-engine
-bin/
-
-.env
-
-nginx/certs
