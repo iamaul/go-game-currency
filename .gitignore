@@ -1,0 +1,7 @@
+vendor/
+_*
+engine
+bin/
+nginx/certs/
+
+.env
